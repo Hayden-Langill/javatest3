@@ -1,5 +1,5 @@
-document.getElementById('button').addEventListener('click' ,help)
+document.getElementById('button').addEventListener('click', help)
 
 function help () {
-alert(document.getElementById('input').value)
+  alert(document.getElementById('input').value)
 }
